@@ -1,0 +1,3 @@
+number,priceCents,priceCurrency,available,length,tags,type
+nr1,50000,USD,true,200, ,Clip
+nr2,2000,PLN,true,,t1 t2,Picture
